@@ -1,0 +1,32 @@
+<html>
+<head>
+<title>HTML</title>
+</head>
+<body>
+
+<h1>My ROll number is 2k17/csee/117</h1>
+<p>My Name is  INZAMAM ALI .</p>
+<a href="https://www.google.com/"> GOOGLE.COM </a>
+<b> bold writing name Inzamam </b>
+
+<h1>My ROll number is 2k17/csee/78</h1>
+<p>My Name is  Noor Channa.</p>
+<a href="https://www.google.com/"> GOOGLE.COM </a>
+<b> bold writing name Noor </b>
+
+<h1>My ROll number is 2k17/csee/115</h1>
+<p>My Name is  Yasir Ali.</p>
+<a href="https://www.google.com/"> GOOGLE.COM </a>
+<b> bold writing name yasir Ali  </b>
+
+<h1>My ROll number is 2k17/csme/14</h1>
+<p>My Name is Nawab Ali .</p>
+<a href="https://www.google.com/"> GOOGLE.COM </a>
+<b> bold writing name  Nawab</b>
+
+<h1>My ROll number is 2k17/csee/6</h1>
+<p>My Name is  Abrar Ali.</p>
+<a href="https://www.google.com/"> GOOGLE.COM </a>
+<b> bold writing name Abrar </b>
+</body>
+</html>
